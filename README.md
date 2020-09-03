@@ -6,7 +6,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou fazendo faculdade na ***Estácio*** e aprimorando as minhas habilidades com a ***Rocketseat***
+ :rocket:  &nbsp; Estou fazendo faculdade na ***Estácio*** e aprimorando as minhas habilidades com a ***Alura***
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
